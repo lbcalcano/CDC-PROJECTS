@@ -1,0 +1,37 @@
+
+[
+  { "name":"Wayne Gretzky",
+    "quote":
+    [
+        "You miss 100% of the shots you don't take.",
+        "A good hockey player plays where the puck is. A great hockey player plays where the puck is going to be.",
+        "When you win, say nothing, when you lose say less.",
+        "I skate to where the puck is going to be, not where it has been."
+    ],
+    "image":"wayne"
+  },
+  { "name":"Charles Swindoll",
+      "quote":
+      [
+          "Life is 10% what happens to me and 90% how I react to it.",
+          "Anything under God's control is never out of control.",
+          "We cannot change our past... we cannot change the fact that people will act in a certain way. We cannot change the inevitable. The only thing we can do is play on the one string we have, and that is our attitude. I am convinced that life is 10% what happens to me and 90% of how I react to it. And so it is with you... we are in charge of our Attitudes."
+      ],
+    "image":"charles"
+  },
+  { "name":"Henry David Thoreau",
+      "quote":
+      [
+          "Go confidently in the direction of your dreams. Live the life you have imagined.",
+          "I learned this, at least, by my experiment: that if one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.",
+          "Rather than love, than money, than fame, give me truth.",
+          "How vain it is to sit down to write when you have not stood up to live."
+      ],
+    "image":"henry"
+  },
+  { "name":"George Addair",
+      "quote":
+      ["Everything you've ever wanted is on the other side of fear."],
+    "image":"george"
+  }
+]
