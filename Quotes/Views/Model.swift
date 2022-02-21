@@ -9,5 +9,6 @@ import Foundation
 
 struct myStruct {
     var myvar = 2
+    var myvar2 = 3
     
 }
